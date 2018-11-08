@@ -13,3 +13,7 @@ texto conflitado da HEAD
 texto conflitado do branch
 >>>>>>>>>
 continua o arquivo normalmente
+
+
+
+Novo commit a ser revertido
