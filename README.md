@@ -10,3 +10,6 @@ commit 9:23 d
 commit do dia 9 de novembro COM CONFLICT
 
 segundo commit do dia 9 de novembro sem conflict
+
+
+outra alteraçao
